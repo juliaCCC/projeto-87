@@ -1,4 +1,4 @@
-var canvas = new fabric.canvas("myCanvas");
+var canvas = new fabric.Canvas("myCanvas");
 blockY=1;
 blockX=1;
 
